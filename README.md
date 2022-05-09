@@ -3,8 +3,6 @@
 
 - Arijit **Bot Owner and Main Developer**
 
-- Powered By **IniTDev Team**
-
 - Rishab **Side Developer and Marketing Partner**
 
 - MrCricBoss **Quality Control Manager**
@@ -18,3 +16,6 @@
 
 <h3 align="left">Bot Coded in:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+
+
+- Powered By **IniTDev Team**
