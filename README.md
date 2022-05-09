@@ -3,7 +3,7 @@
 
 - Arijit **Bot Owner and Main Developer**
 
-- Rishab **Side Developer and Marketing Partner**
+- Rishi **Side Developer and Marketing Partner**
 
 - MrCricBoss **Quality Control Manager**
 
