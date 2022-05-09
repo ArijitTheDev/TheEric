@@ -5,7 +5,7 @@
 
 - Rishi **Side Developer and Marketing Partner**
 
-- MrCricBoss **Quality Control Manager**
+- CRic **Quality Control Manager**
 
 - 📫 Support Server **https://discord.gg/Kzz8m3HQdu**
 
