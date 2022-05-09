@@ -7,6 +7,7 @@
 
 - CRic **Quality Control Manager**
 
+- Nilay **TheEric Payments Manager**
 - 📫 Support Server **https://discord.gg/Kzz8m3HQdu**
 
 <h3 align="left">Connect with me:</h3>
